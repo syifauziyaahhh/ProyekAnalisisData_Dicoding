@@ -10,4 +10,4 @@
 
 ## Link Dashboard:
 
-><[https://bike-sharing-yocimm.streamlit.app/>](http://localhost:8516/)
+>http://localhost:8516/
